@@ -1,2 +1,4 @@
 ### Usage
-python js.py json.json
+```sh
+python js.py <filename>
+```
